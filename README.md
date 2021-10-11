@@ -8,7 +8,7 @@ I'm Pranay Pathania, an engineering student at NIT Rourkela, India. I got into p
 1. I am fluent in English and Hindi (and a bit of Japanese).
 2. I'm a team player, when forced to do so.
 3. I'll do the work, you do the presentations, please (*looks at you with hope*)
-4. Don't expect small talk from me. Yes, I've been the stereotypical quiet kid at school (minus the MP5). I have basically zero social skills and I'm not working on it (same reason why I don't have my face as the profile picture). This is excused for my friends, if they exist in the future.
+4. Don't expect small talk from me. Yes, I've been the stereotypical quiet kid at school (minus the MP5). I have basically zero social skills and I'm not working on it (same reason why I don't have my face as the profile picture). This is excused for my friends, if they exist in the future (acquaintances and people on social platforms don't count).
 5. I expect anyone who contacts me to give me feedback and/or criticism, or raise a question, or anything close to those things, instead of sending a simple "Hi". You'll just trigger my anxiety and never get a reply.
 
 **Other random points**:
