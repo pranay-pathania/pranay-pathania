@@ -43,7 +43,7 @@ I'm Pranay Pathania, an engineering student at NIT Rourkela, India. I got into p
 
 <br>
 
-## **Languages/Technologies I plan to learn in the future**
+## **Languages/Technologies/Other Things I plan to learn in the future**
 - **Vim** (heard it makes you look cool as a programmer)
 - **Python (and PyGame)**
 - **SQL** (and other things related to it)
