@@ -5,7 +5,7 @@ I'm Pranay Pathania, an engineering student at NIT Rourkela, India. I got into p
 <br>
 
 **Some points about me regarding communication**:
-1. I am fluent in English and Hindi (and a bit of Japanese).
+1. I am fluent in English and Hindi (I am also learning Japanese).
 
 
 <br>
