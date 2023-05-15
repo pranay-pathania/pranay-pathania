@@ -19,10 +19,13 @@ I'm Pranay Pathania, an engineering student at NIT Rourkela, India. I got into p
 - **C** 
 - **HTML**
 - **CSS (Vanilla CSS, not including frameworks)** 
-- **JavaScript** 
+- **JavaScript**
+- **Express** 
 - **React**
 - **TypeScript**
 - **MongoDB** 
+- **NextJS**
+- **PostgreSQL**
 
 <br>
 
@@ -32,8 +35,8 @@ I'm Pranay Pathania, an engineering student at NIT Rourkela, India. I got into p
 
 ## **Languages/Technologies/Other Things I plan to learn in the future**
 - **Vim** 
-- **Python (possibly PyGame)**
-- **JS frameworks like Angular or Vue**
+- **Python**
+- **frameworks like Angular or Vue**
 
 <br>
 
