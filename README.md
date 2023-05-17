@@ -48,7 +48,6 @@ I'm Pranay Pathania, an engineering student at NIT Rourkela, India. I got into p
 - **Reddit**: [u/PranayPathania](https://www.reddit.com/user/PranayPathania)
 - **Gmail**: pranaypathania02@gmail.com
 - **Facebook**: [Pranay Pathania](https://www.facebook.com/pranay.pathania1/)
-- **Instagram**: [justanothertoxin](https://www.instagram.com/justanothertoxin/)
 
 <br>
 
